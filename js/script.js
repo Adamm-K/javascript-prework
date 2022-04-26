@@ -7,7 +7,7 @@ let computerMove = 'nieznany ruch';
 if(randomNumber == 1){
   computerMove = 'kamień';
 }
-printMessage('Mój ruch to: ' + computerMove);
+
  else if (randomNumber == 2) 
 {
   computerMove = 'papier';
