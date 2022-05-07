@@ -1,8 +1,8 @@
 
 {
-  clearMessages
   
   const playGame = function(playerInput) {
+    clearMessages();
   
   const getMoveName = function(argMoveId){
     if(argMoveId == 1){
